@@ -1,6 +1,6 @@
 # Dual-Granularity Query Modeling for Zero-Shot Composed Image Retrieval
 
-Submitted to AAAI
+Submitted to WWW
 
 ![](DGQ.png)
 
